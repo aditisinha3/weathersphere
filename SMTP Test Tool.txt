@@ -1,0 +1,13 @@
+SMTP Test Tool
+
+smtp.gmail.com
+
+465
+
+ssl
+
+password: tgdw payc wdqc hnwh
+
+stayfit2travel@gmail.com
+
+mr.shannu1248@gmail.com

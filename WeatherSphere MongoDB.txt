@@ -1,0 +1,11 @@
+WeatherSphere MongoDB
+
+Username: mrshannu148
+
+Password: 6OCQrbQixJGcP5vD
+
+Connection string:
+mongodb+srv://mrshannu1248:6OCQrbQixJGcP5vD@cluster0.ffruvgh.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+MongoDB Compass String:
+mongodb+srv://mrshannu1248:6OCQrbQixJGcP5vD@cluster0.ffruvgh.mongodb.net/
